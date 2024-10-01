@@ -1,1 +1,1 @@
-lo que tu quieras git stash git diff
+lo que tu quieras git stash git diff tag
